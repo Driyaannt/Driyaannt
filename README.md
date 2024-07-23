@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Achmad Mochamad Driya Ananta</h1>
+<h1 align="center">Hi 👋, I'm Mochamad Driya Ananta</h1>
 <br>
 
 ### Languages and Tools
