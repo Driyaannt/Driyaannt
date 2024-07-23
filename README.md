@@ -29,3 +29,9 @@
   <a href="https://github.com/Driyaannt"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Driyaannt&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="192px" width="49.5%"/></a>
   <br/>
 </a>
+
+## ⚡️ Github Statistic:
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Driyaannt&theme=tokyo-night&custom_title=Farrel%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
